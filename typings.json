@@ -1,0 +1,9 @@
+{
+  "name": "object.omit",
+  "homepage": "https://github.com/jonschlinkert/object.omit",
+  "main": "index.d.ts",
+  "version": "^2.0.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#4.0.0+20160507210304"
+  }
+}
